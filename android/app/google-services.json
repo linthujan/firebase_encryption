@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1024501112009",
+    "project_id": "flutterfirebaseencryption",
+    "storage_bucket": "flutterfirebaseencryption.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1024501112009:android:ceb5f1363a732b08124118",
+        "android_client_info": {
+          "package_name": "com.linthu.flutter_firebase_encryption"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8Ukfkijx5d3r1iRcKczlKT7OG93vMcgI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
