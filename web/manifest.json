@@ -1,11 +1,11 @@
 {
-    "name": "encryption",
-    "short_name": "encryption",
+    "name": "flutter_firebase_encryption",
+    "short_name": "flutter_firebase_encryption",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "firebase encryption practice",
+    "description": "firebase, flutter, cloudfunction, encryption practices",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [

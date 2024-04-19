@@ -1,6 +1,6 @@
-# encryption
+# flutter_firebase_encryption
 
-firebase encryption practice
+firebase, flutter, cloudfunction, encryption practices
 
 ## Getting Started
 

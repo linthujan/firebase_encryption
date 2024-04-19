@@ -1,4 +1,4 @@
-package com.example.encryption;
+package com.linthu.flutter_firebase_encryption;
 
 import io.flutter.embedding.android.FlutterActivity;
 

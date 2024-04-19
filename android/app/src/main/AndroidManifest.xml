@@ -1,7 +1,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.encryption">
+    package="com.linthu.flutter_firebase_encryption">
    <application
-        android:label="encryption"
+        android:label="flutter_firebase_encryption"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity
